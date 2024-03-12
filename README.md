@@ -8,7 +8,7 @@
 File -> Options -> Customize -> Customize Ribbon -> Check "Developer" option
 
 2. On "Developer tab" press "Macros" button -> fill in Macro name: AcceptMarginRevisions -> press "Create" button
-remove all content and paste the following source code:
+remove all content and paste and save the following source code:
 
 ```
 Public Sub AcceptMarginRevisions()
